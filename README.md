@@ -11,7 +11,6 @@ The objective is to monitor logistics KPIs, identify delivery delays, evaluate w
 ## 🛠 Tools Used
 
 - Excel
-- SQL
 - Power BI
 - Pivot Tables
 - DAX
@@ -33,15 +32,9 @@ The objective is to monitor logistics KPIs, identify delivery delays, evaluate w
 
 Upload your dashboard screenshot as:
 
-```text
-dashboard.png
-```
-
-Then add:
-
-```markdown
-![Dashboard](dashboard.png)
-```
+<img width="516" height="297" alt="Dashboard-1" src="https://github.com/user-attachments/assets/4f536b7e-d2bf-489e-aea7-b95da3a568fa" />
+<img width="1262" height="731" alt="Dashboard-2" src="https://github.com/user-attachments/assets/1ff50d32-bb83-4e0d-9852-13b3aade2ff7" />
+<img width="1266" height="727" alt="Dashboard-3" src="https://github.com/user-attachments/assets/15c6350a-50bb-4a7b-9e11-eb2847beaa2c" />
 
 ---
 
@@ -87,17 +80,12 @@ Then add:
 
 ---
 
-## 📷 Dashboard
-
-
-
----
-
 ## 📁 Files Included
 
-- Supply_Chain_Logistics_Analytics_10000Rows.csv
-- Supply_Chain_Dashboard.pbix
-- dashboard.png
+- PB_supply-chain-logistic.pbix
+- dashboard1.png
+- dashboard2.png
+- dashboard3.png
 - README.md
 
 ---
